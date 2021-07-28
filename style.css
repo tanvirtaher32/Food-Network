@@ -6,7 +6,7 @@ body{
 .header-section{
     display:flex;
     margin: 30px;
-    padding: 30px;
+    padding: 15px;
     background-image: url("");
     margin-bottom: 120px;
 }
