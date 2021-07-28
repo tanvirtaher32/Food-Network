@@ -6,7 +6,7 @@ body{
 .header-section{
     display:flex;
     margin: 30px;
-    padding: 15px;
+    padding: 30px;
     background-image: url("");
     margin-bottom: 120px;
 }
@@ -92,7 +92,7 @@ span{
     box-shadow: 3px 5px 20px dimgray;
     width: 30%;
     border-radius: 20px;
-    height: 600px;
+    height: 700px;
     cursor: pointer;
     margin-left:3%;
 }
